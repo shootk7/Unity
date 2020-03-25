@@ -1,15 +1,23 @@
 ﻿<Properties StartupConfiguration="{8B985F04-3226-86B7-089F-F5BA3DD4FDA0}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Camera.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Stage/Enemy/EnemyMove.cs">
     <Files>
-      <File FileName="Assets/PlayeMove.cs" Line="24" Column="10" />
-      <File FileName="Assets/Camera.cs" Line="20" Column="56" />
+      <File FileName="Assets/Stage/Enemy/EnemyMove.cs" Line="21" Column="6" />
+      <File FileName="Assets/Stage/Hammer/HammerMove2.cs" Line="23" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ActionGame" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Camera.cs" selected="True" />
+              <Node name="Stage" expanded="True">
+                <Node name="Enemy" expanded="True">
+                  <Node name="EnemyMove.cs" selected="True" />
+                </Node>
+                <Node name="Ground" expanded="True" />
+                <Node name="Hammer" expanded="True" />
+                <Node name="Obstracle" expanded="True" />
+                <Node name="Trap" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -18,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="343511cf-ab47-41d4-bfc4-fb8fcbce7e31" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="07eac799-0aad-49b9-a9fb-3751e544c2ea" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -69,7 +69,9 @@
     <Compile Include="Assets\Stage\Ground\Ground1Move.cs" />
     <Compile Include="Assets\Stage\Ground\Ground2Move.cs" />
     <Compile Include="Assets\Stage\Ground\Ground3Move.cs" />
-    <Compile Include="Assets\Stage\Trap\TrapMove.cs" />
+    <Compile Include="Assets\Stage\Hammer\HammerMove.cs" />
+    <Compile Include="Assets\Stage\Obstracle\ObstractMove.cs" />
+    <Compile Include="Assets\Stage\Trap\TrapMove1.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/wonder_staff/shootk7/Unity/ActionGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
